@@ -5,7 +5,7 @@ only for development purposes
 
 A News Application called News Wave with Latest News update build using NewsApi easy to use and build 
 
-# .ene.local file apikey
+# .env.local file apikey
 you have to add the News API key in the .env.local file by creating an account on NewsApi.com to use the app 
 
 # Issues
