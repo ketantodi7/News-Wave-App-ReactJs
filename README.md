@@ -1,3 +1,6 @@
+![Screenshot (494)](https://github.com/ketantodi7/News-Wave-App-ReactJs/assets/95423148/dec1fa83-27b2-4c59-be55-00994bf34995)
+
+
 # Getting Started
 
 This is a raw code of the ReactJs news app without the build.
