@@ -1,0 +1,280 @@
+{
+    "status": "ok",
+    "totalResults": 23,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Hindustan Times",
+            "title": "Weekly Covid wrap: India's cases seesaw while positivity rate remains below 5% - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy93ZWVrbHktY292aWQtd3JhcC1pbmRpYXMtY2FzZXMtc2Vlc2F3LXdoaWxlLXBvc2l0aXZpdHktcmF0ZS1yZW1haW5zLWJlbG93LTUtMTAxNjgyODMxNjExNTU4Lmh0bWzSAY4BaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3Mvd2Vla2x5LWNvdmlkLXdyYXAtaW5kaWFzLWNhc2VzLXNlZXNhdy13aGlsZS1wb3NpdGl2aXR5LXJhdGUtcmVtYWlucy1iZWxvdy01LTEwMTY4MjgzMTYxMTU1OC1hbXAuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-04-30T05:32:35+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "la-gaceta",
+                "name": "La Gaceta"
+            },
+            "author": "La Gaceta",
+            "title": "¿Cómo se puede distinguir si uno tiene dengue o covid?",
+            "description": "Es posible una coinfección. Cada vez llegan más casos febriles a los consultorios. El diagnóstico de una patología no descarta la otra. Hay que tomar medidas de prevención para ambas dolencias. Vacunarse es esencial.",
+            "url": "https://www.lagaceta.com.ar/nota/989323/sociedad/como-se-puede-distinguir-si-uno-tiene-dengue-o-covid.html",
+            "urlToImage": "https://img.lagaceta.com.ar/fotos/notas/2023/04/29/como-se-puede-distinguir-si-uno-tiene-dengue-o-covid-989323-204014.jpg",
+            "publishedAt": "2023-04-30T03:52:18.5275572Z",
+            "content": "Mientras los casos de dengue no le dan respiro a los médicos en los consultorios, desde hace unas semanas también han empezado a notar cómo se incrementan los pacientes afectados por otros virus; ent… [+4596 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China manufacturing unexpectedly cools in April - official PMI",
+            "description": "China's manufacturing activity unexpectedly shrank in April, official data showed on Sunday, raising pressure on policymakers seeking to boost an economy struggling for a post-COVID lift-off amid subdued global demand and persistent property weakness.",
+            "url": "https://www.reuters.com/world/china/china-manufacturing-unexpectedly-cools-april-official-pmi-2023-04-30/",
+            "urlToImage": "https://www.reuters.com/resizer/RKXs8ACML8fQ7O0r8PgdyZYB1w0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YMQACVPZ6NNRVGVEXPADTSEDLY.jpg",
+            "publishedAt": "2023-04-30T02:12:19Z",
+            "content": "BEIJING, April 30 (Reuters) - China's manufacturing activity unexpectedly shrank in April, official data showed on Sunday, raising pressure on policymakers seeking to boost an economy struggling for … [+2547 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marianne Garvey",
+            "title": "Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together | CNN",
+            "description": "It's sourdough bread and handstands for Jake Gyllenhaal and Jamie Lee Curtis.",
+            "url": "http://us.cnn.com/2023/04/18/entertainment/jake-gyllenhaal-jamie-lee-curtis-pandemic-living/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230418143926-jake-gyllenhaal-jamie-lee-curtis-041723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-18T14:40:32Z",
+            "content": "Its sourdough bread and handstands for Jake Gyllenhaal and Jamie Lee Curtis.\r\nThe two stars are talking about the time they spent together during the Covid-19 pandemic, telling People that the actor,… [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Wency Leung",
+            "title": "‘COVID hasn’t gone away’: Five things health experts say we must do to end the pandemic",
+            "description": "Boosting health care capacity, encouraging third doses and better understanding long COVID are among the issues health experts say need to be addressed",
+            "url": "https://www.theglobeandmail.com/canada/article-covid-19-pandemic-not-over/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/nYUYq7AN4xv1_6tgavE1CKi6OvQ=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OSOQKLUMCZEDDPFOKUWLUFOLFY.png",
+            "publishedAt": "2022-06-15T17:00:00Z",
+            "content": "Restaurants are open. Festivals are back. Masks, for the most part, are optional. And starting Monday, June 20, proof of vaccination will no longer be required of Canadian air and train passengers.\r\n… [+7848 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Jordain Carney, Peter Sullivan",
+            "title": "Trump-era fight snags COVID deal",
+            "description": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.   A bipartisan group of senators announced this week that they had cli…",
+            "url": "https://thehill.com/news/3260056-trump-era-fight-snags-covid-deal/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/thunejohn_040522arl2_lead.jpg?w=1280",
+            "publishedAt": "2022-04-06T10:00:00Z",
+            "content": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.  \r\nA bipar… [+5716 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "The return of inflation: crunch time for the European Central Bank",
+            "description": "The ECB has sounded more dovish than most central banks. But rising prices and Covid are putting it under growing pressure",
+            "url": "https://www.ft.com/content/e01ce60c-f602-4110-bb64-7fd60689b099",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F975439dc-ed35-46c9-bd02-126fb5c17c2b.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-12-14T06:22:20.4937354Z",
+            "content": "As Christine Lagarde unveiled plans last week to redesign euro banknotes for the first time since their launch two decades ago, the European Central Bank president said they were “a tangible and visi… [+15887 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Latest news updates: US Covid cases hit 50m on eve of vaccine rollout anniversary",
+            "description": "",
+            "url": "https://www.ft.com/content/178c692f-82a4-407e-9992-f251c2f5d13d",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb31c1daf-64eb-4442-add7-6b6672f2ade3.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-12-14T00:07:22.2959231Z",
+            "content": "US Covid-19 cases since the start of the pandemic have crossed 50m, according to Johns Hopkins University data on Monday, on the eve of the first anniversary of the country’s vaccination rollout.\r\nTh… [+1724 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "Portugal to begin reopening to EU tourists from Monday",
+            "description": "Portugal is to resume admitting tourists from most European countries on Monday, the interior ministry said, following months of restrictions to prevent the spread of Covid-19.",
+            "url": "https://www.rte.ie/news/coronavirus/2021/0515/1221758-coronavirus-europe/",
+            "urlToImage": "https://img.rasset.ie/0016cb45-1600.jpg",
+            "publishedAt": "2021-05-15T09:10:11Z",
+            "content": "Portugal is to resume admitting tourists from most European countries on Monday, the interior ministry said, following months of restrictions to prevent the spread of Covid-19.\r\nTravellers from Europ… [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "George Lee",
+            "title": "HSE to continue vaccinations despite cyber attack",
+            "description": "The HSE said it is still planning to administer between 250,000 and 270,000 COVID-19 vaccine doses next week between GP's, vaccination centres, hospitals and other services, despite the ransomware cyber-attack on its IT systems launched yesterday.",
+            "url": "https://www.rte.ie/news/2021/0515/1221732-vaccinations-continue-portal/",
+            "urlToImage": "https://img.rasset.ie/00166995-1600.jpg",
+            "publishedAt": "2021-05-15T03:39:53Z",
+            "content": "The HSE said it is still planning to administer between 250,000 and 270,000 COVID-19 vaccine doses next week between GP's, vaccination centres, hospitals and other services, despite the ransomware cy… [+997 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            "author": "Amy McKeever, National Geographic Staff",
+            "title": "U.S. has secured 200 million more doses of COVID-19 vaccines",
+            "description": "These are the COVID-19 vaccine prospects that have made it to phase three trials and beyond.",
+            "url": "https://www.nationalgeographic.com/science/health-and-human-body/human-diseases/coronavirus-vaccine-tracker-how-they-work-latest-developments-cvd.html",
+            "urlToImage": "https://www.nationalgeographic.com/content/dam/science/2021/01/25/vaccine-tracker/vaccine-1230603423.jpg",
+            "publishedAt": "2021-02-17T14:37:20.9270628Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Emma Donada",
+            "title": "Covid-19 : vers un dépistage systématique des variants en cas de test PCR positif",
+            "description": "Le 23 janvier, la direction générale de la santé a demandé aux professionnels de santé de faire passer un deuxième test à toutes les PCR positives afin de détecter les éventuels variants.",
+            "url": "http://www.liberation.fr/checknews/2021/02/02/covid-19-vers-un-depistage-systematique-des-variants-en-cas-de-test-pcr-positif_1818898",
+            "urlToImage": "https://medias.liberation.fr/photo/1375347-checknews_afp_8yf6bbjpg.jpg?modified_at=1612262533&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2021-02-02T11:42:53Z",
+            "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Elsa Maudet",
+            "title": "Mal-logement : le parc HLM paralysé par le Covid",
+            "description": "Dans un rapport publié ce mardi, la Fondation Abbé-Pierre estime que 100 000 logements sociaux de moins ont été attribués l’année dernière, à cause de la crise sanitaire et des confinements. Toute la chaîne d’attribution est embouteillée et risque d’exploser …",
+            "url": "http://www.liberation.fr/france/2021/02/01/mal-logement-le-parc-hlm-paralyse-par-le-covid_1818999",
+            "urlToImage": "https://medias.liberation.fr/photo/1375385-000_1hi6xbjpg.jpg?modified_at=1612204923&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2021-02-01T19:36:14Z",
+            "content": "Les chiffres définitifs ne seront connus que dans quelques mois, mais déjà les estimations donnent le tournis. En 2020, le nombre dattributions de HLM devrait chuter de 20 %. Soit 100 000 logements s… [+4840 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "Cédric Mathiot, Pauline Moullot",
+            "title": "Les chiffres officiels des hospitalisations liées au Covid-19 sont-ils gonflés ?",
+            "description": "La publication d'un article de «Nice-Matin» mi-janvier a relancé la polémique sur la manière dont les statistiques sont fabriquées.",
+            "url": "http://www.liberation.fr/checknews/2021/02/01/les-chiffres-officiels-des-hospitalisations-liees-au-covid-19-sont-ils-gonfles_1817820",
+            "urlToImage": "https://medias.liberation.fr/photo/1375353-french-hospital-faces-second-wave-of-covid-19-patients.jpg?modified_at=1612191406&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+            "publishedAt": "2021-02-01T12:42:15Z",
+            "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Globo",
+            "title": "Avião que transportava vacinas contra a Covid-19 faz curva errada e entra em rota de colisão com aeronave da Gol",
+            "description": "Jato do governo do Paraná saiu de Curitiba rumo a Londrina. Avião da Gol vinha de São Paulo. O governo do estado do Paraná classificou a ocorrência como 'incidente' e informou que a aeronave entrou em rota de colisão por conta do piloto automático. A FAB apur…",
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2021/01/20/aviao-que-transportava-vacinas-contra-a-covid-19-faz-curva-errada-e-entra-em-rota-de-colisao-com-aeronave-da-gol.ghtml",
+            "urlToImage": "https://s2.glbimg.com/72FqHE9EOVqSivtRTU89ZK60l3k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/7/N/tWR2jzREAvjTDOprvDFA/q98a7354.jpg",
+            "publishedAt": "2021-01-20T22:13:44.803Z",
+            "content": "A Força Aérea Brasileira (FAB) apura uma ocorrência envolvendo um avião monomotor do governo do Paraná, que transportava doses da vacina CoronaVac para Londrina e entrou em rota de colisão com um avi… [+2208 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": "Globo",
+            "title": "Brasil registra 1.382 mortes por Covid em 24 horas, recorde desde agosto, e soma 212,8 mil óbitos",
+            "description": "País contabilizou total de 212.893 óbitos e 8.639.868 casos de Covid-19, segundo balanço do consórcio de veículos de imprensa.",
+            "url": "https://g1.globo.com/bemestar/coronavirus/noticia/2021/01/20/casos-e-mortes-por-coronavirus-no-brasil-em-20-de-janeiro-segundo-consorcio-de-veiculos-de-imprensa.ghtml",
+            "urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png",
+            "publishedAt": "2021-01-20T16:00:37.277Z",
+            "content": "O consórcio de veículos de imprensa divulgou novo levantamento da situação da pandemia de coronavírus no Brasil a partir de dados das secretarias estaduais de Saúde, consolidados às 20h desta quarta-… [+2951 chars]"
+        }
+    ]
+}
